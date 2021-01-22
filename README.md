@@ -86,7 +86,7 @@ You can also set up a new database user in the  _mariadb.auth.username_ variable
 
 When you're done, accept the terms, and click on *Install*.
 
-![Screenshot](Presta.PNG)
+![Screenshot](Presta2.PNG)
 
 
 ## Step 4: Verify Installation
