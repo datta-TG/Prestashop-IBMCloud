@@ -135,4 +135,4 @@ When you're done, accept the terms, and click on *Install*.
 
 ![Screenshot](testpresta4.PNG)
 
-You have finished the installation, enjoy your new Prestashop site!
+You have finished the installation and enjoy your new Prestashop site by accessing the load balancer's public IP. It is important to note that the VPC selected in the Kubernetes Cluster created should have an Internet Gateway to correctly access the IP. You can also assign a custom domain by modifying the corresponding variable in the Prestashop installation parameters.
