@@ -1,4 +1,4 @@
-# Install postgreSQL in IBM Cloud
+# Install Prestashop in IBM Cloud
 
 PrestaShop is a free and open source content management system, designed to build e-commerce online stores from scratch. This documentation will guide you on how to install Prestashop on the IBM Cloud using the Kubernetes Service. Simple and effective.
 
